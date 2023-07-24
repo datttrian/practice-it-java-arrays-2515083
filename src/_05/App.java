@@ -1,4 +1,4 @@
-package _01_05;
+package _05;
 
 public class App {
   // {A, B, C}

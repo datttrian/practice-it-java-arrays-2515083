@@ -1,4 +1,4 @@
-package _01_01;
+package _01;
 
 public class App {
   public static void main(String[] args) {
